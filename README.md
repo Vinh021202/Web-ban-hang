@@ -5,8 +5,6 @@ This repository stores projects for an online sales website
 
 ## Technologies Used
 - **Frontend:** JavaScript, SCSS, HTML
-- **Backend:** JavaScript, Starlark
-- **Api
 
 ### Prerequisites
 - **Node.js** (for web )
